@@ -1,0 +1,12 @@
+#name, description, manualLeadingSpaces, newLine, buttonTextColor, buttonBackColor, recipe-center, apricorn-top, apricorn-left, apricorn-bottom, apricorn-right
+Ultra, 2x effective., 12, false, 32768, 2, gold_ingot, black, yellow
+Park, 2.5x in a Forest or Plains biome., 0, false, 1, 8192, iron_ingot, red, green, green
+Dusk, Up to 3.5x in the dark., 0, false, 32, 128, gold_ingot, green, black, green
+Dive, 3.5x against underwater Pokemon., 0, false, 8, 2048, iron_ingot, white, blue, blue
+Quick, 5x on the first turn of battle., 0, false, 16, 2048, gold_ingot, blue, yellow, blue
+Timer, 4x on the tenth turn or later., 0, false, 32768, 16384, gold_ingot, red, white, black
+Level, 3x-4x if you're at least 2x the opponent's level., 14, true, 2, 128, iron_ingot, black, yellow, red, pink
+Dream, 4x against sleeping Pokemon., 0, false, 1024, 4, diamond, red, pink, blue
+Friend, 1x effective but captured Pokemon like you a lot., 0, false, 2, 8192, iron_ingot, yellow, green, red
+Lure, 4x against fished-up Pokemon., 0, false, 16384, 512, iron_ingot, red, blue, red, green
+Repeat, 3.5x against previously-obtained Pokemon., 0, false, 16, 16384, gold_ingot, black, red, yellow

@@ -1,0 +1,13 @@
+#fullname, goodname, description1, description2, manualLeadingSpaces, newLine, saleQuantity, costItem, costQuantity, buttonTextColor, buttonBackColor, chestname
+cobblemon:sitrus_berry, Sitrus Berry, Restores 25% of HP.,_, 14, false, 16, minecraft:gold_ingot,Gold Ingot, 1, 4096, 16, minecraft:chest_71
+cobblemon:lum_berry, Lum Berry, Clears status conditions.,_, 0, false, 16, minecraft:gold_ingot,Gold Ingot, 1, 1, 32, minecraft:chest_70
+cobblemon:leppa_berry, Leppa Berry, Restores 10 PP of a single move.,_, 0, false, 16, minecraft:gold_ingot,Gold Ingot, 1, 16, 16384, minecraft:chest_69
+cobblemon:revival_herb, Revival Herb, Revives a fainted Pokemon,but hurts friendship a bit., 19, true, 16, minecraft:gold_ingot,Gold Ingot, 1, 128, 32, minecraft:chest_95
+cobblemon:full_restore, Full Restore, Restores HP and clears status, but won't work if fainted., 0, false, 8, minecraft:gold_ingot,Gold Ingot, 1, 16, 8192, minecraft:chest_73
+cobblemon:hp_up, HP Up, +10 HP EVs, _, 5, true, 8, minecraft:emerald, Emerald, 1, 256, 128, minecraft:barrel_20
+cobblemon:protein, Protein, +10 Attack EVs, _, 0, false, 8, minecraft:emerald, Emerald, 1, 16384, 128, minecraft:barrel_21
+cobblemon:iron, Iron, +10 Defense EVs, _, 0, false, 8, minecraft:emerald, Emerald, 1, 2048, 128, minecraft:barrel_22
+cobblemon:calcium, Calcium, +10 Sp Attack EVs, _, 0, false, 8, minecraft:emerald, Emerald, 1, 512, 128, minecraft:barrel_23
+cobblemon:zinc, Zinc, +10 Sp Defense EVs, _, 0, false, 8, minecraft:emerald, Emerald, 1, 4, 128, minecraft:barrel_24
+cobblemon:carbos, Carbos, +10 Speed EVs, _, 0, false, 8, minecraft:emerald, Emerald, 1, 8192, 128, minecraft:barrel_25
+cobblemon:pp_max, PP Max, Caps out max PP for a single move., _, 0, false, 8, minecraft:emerald, Emerald, 1, 16, 128, minecraft:barrel_26
