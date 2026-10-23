@@ -13,4 +13,4 @@ Usage:
 4. Connect your monitor, input barrel, output barrel/chest, workChest, payment-storage chest, and apricorn storage chests (one for each color) to your turtle with wired modems, noting each peripheral's name/number as you enable the modem, eg "minecraft:chest_17".
 	- Being immediately adjacent to the turtle also works -- you'll just use "front" or whatever in lieu of a name/number.
 5. Update the chest names/numbers in pokeballStore.lua under the "Peripheral Names", "Apricorn chest names", and "Other chest names" headings.
-6. PokeBalls for sale can be configured (recipe, description, and text formatting) in pokeballs.txt. Miscellaneous items for sale can likewise be configured (sale quantity, cost item, cost quantity) in sales.txt.
+6. PokeBalls for sale can be configured (recipe, description, and text formatting) in pokeballs.txt. Miscellaneous items for sale can likewise be configured (sale quantity, cost item, cost quantity) in sales.txt. The misc sales section can be disabled by setting enableSales to false in pokeballStore.lua under the "other settings" heading.
