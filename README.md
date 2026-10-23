@@ -1,5 +1,7 @@
 PokeBall shop interface for ComputerCraft + Cobblemon using [ButtonAPI](https://github.com/Siarko/ButtonApi).
 
+![An example KurtBot Ball Stall frontend setup.](example.png)
+
 Crafts balls on demand and sells miscellaneous items too.
 
 Designed to run on an Advanced Turtle and displayed on a 7x3 color monitor, with one barrel/chest for input (materials/payment) and one for output. I like to put the output above the screen with an outward-facing funnel (Create mod) to immediately spit out the purchased items.
